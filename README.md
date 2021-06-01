@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzy-thetraveler, and a newby.
-- 👀 I’m interested in Medical IT field.
-- 🌱 I’m currently learning Java!
+- 👀 I’m interested in MONEY!
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / suzythetraveler@naver.com
 
