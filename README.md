@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzy-thetraveler, and a newby.
 - 👀 I’m interested in fun things!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java, js, spring!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / suzythetraveler@naver.com
 
