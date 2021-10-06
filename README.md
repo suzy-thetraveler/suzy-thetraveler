@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @suzy-thetraveler, and a newby.
+- 👋 Hi, I’m Suzy, and a newby from Seoul.
 - 👀 I’m interested in fun things!
-- 🌱 I’m currently learning java, js, spring!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me / suzythetraveler@naver.com
+- 🌱 I’m currently learning Android and C, C++!
+- 📫 How to reach me / suzythetravelerr@gmail.com
 
 <!---
 suzy-thetraveler/suzy-thetraveler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
