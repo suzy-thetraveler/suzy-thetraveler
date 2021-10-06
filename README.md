@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Suzy, and a newby from Seoul.
+- ###👋 Hi, I’m Suzy, and a newby from Seoul.
+-    I started programming since March,2021 and 
 - 👀 I’m interested in fun things!
 - 🌱 I’m currently learning Android and C, C++!
 - 📫 How to reach me / suzythetravelerr@gmail.com
