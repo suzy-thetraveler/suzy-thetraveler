@@ -10,8 +10,14 @@
 <br/>
 
 ### PROJECTS ⚔️
-- Zigme <a>http://itproject.ezenac.co.kr/zigme3/</a>
-- Udon (currently working on it 😅)
+- ### <a href="http://itproject.ezenac.co.kr/zigme3/">Zigme</a>
+Offering conveninent services for commuters in Seoul<br/>
+2021.06 ~ 2021.08 <br/>
+(Java11, Spring, MySQL, Ajax, jquery, CentOS)
+- ### Udon
+Community & Club Activity with people nearby Web/App<br/>
+2021.09 ~ <br/>
+(currently working on it 😅 )
 <!---
 suzy-thetraveler/suzy-thetraveler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
