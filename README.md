@@ -12,12 +12,12 @@
 ### PROJECTS ⚔️
 - ### <a href="http://itproject.ezenac.co.kr/zigme3/">Zigme</a>
 Offering conveninent services for commuters in Seoul<br/>
-2021.06 ~ 2021.08 <br/>
-(Java11, Spring, MySQL, Ajax, jquery, CentOS)
+(Java11, Spring, MySQL, Ajax, jquery, CentOS)<br/>
+2021.06 ~ 2021.08 
 - ### Udon
 Community & Club Activity with people nearby Web/App<br/>
-2021.09 ~ <br/>
-(currently working on it 😅 )
+(currently working on it 😅)<br/>
+2021.09 ~ 
 <!---
 suzy-thetraveler/suzy-thetraveler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
