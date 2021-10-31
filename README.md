@@ -12,13 +12,13 @@
 ### PROJECTS ⚔️
 - ### <a href="https://github.com/nscoo/Zigme">Zigme</a>
 퇴근하는 직장인들에게 편의서비스를 제공하는 웹 <br/>
-(Java11, Spring, MySQL, Ajax, jquery, CentOS)<br/>
+(Java11, Spring, MySQL, Ajax, CentOS)<br/>
 http://itproject.ezenac.co.kr/zigme3/ <br/>
 2021.06 ~ 2021.08
 
 - ### <a href="https://github.com/nscoo/Udon">Udon</a>
 동네 사람들과 함께 할 수 있는 동아리/커뮤니티 웹앱<br/>
-Community & Club Activity with people nearby Web/App<br/>
+(Java11, SpringBoot, MySQL, Thymeleaf ...)<br/>
 (currently working on it 😅)<br/>
 2021.09 ~ 
 <!---
