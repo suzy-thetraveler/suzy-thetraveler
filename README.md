@@ -20,7 +20,7 @@ http://itproject.ezenac.co.kr/zigme3/ <br/>
 동네 사람들과 함께 할 수 있는 동아리/커뮤니티 웹앱<br/>
 (Java11, SpringBoot, MySQL, Thymeleaf, Gradle ...)<br/>
 (currently working on it 😅)<br/>
-2021.09 ~ 
+2021.10 ~ 
 <!---
 suzy-thetraveler/suzy-thetraveler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
