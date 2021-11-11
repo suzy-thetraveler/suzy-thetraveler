@@ -18,7 +18,7 @@ http://itproject.ezenac.co.kr/zigme3/ <br/>
 
 - ### <a href="https://github.com/nscoo/Udon">Udon</a>
 동네 사람들과 함께 할 수 있는 동아리/커뮤니티 웹<br/>
-(Java11, SpringBoot, MySQL, Thymeleaf, Gradle ...)<br/>
+(Java11, SpringBoot, MySQL, Thymeleaf, Gradle...)<br/>
 (currently working on it 😅)<br/>
 2021.10 ~ 
 <!---
