@@ -3,7 +3,7 @@
 ### It's a good day to spend a good day 😄
 - 💻 I started programming since March,2021.
 - 👷‍♀️ I'm interested in Web/Apps(FE/BE both) and FOOD!
-- 🌱 I’m currently learning Android and working on Project Udon!
+- 🌱 I’m currently ...
 - 📫 How to reach me 💁‍♀️ suzythetravelerr@gmail.com
 - 👀 I speak Arabic, English, Japanese, Korean.
 
