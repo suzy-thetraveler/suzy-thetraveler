@@ -4,7 +4,7 @@
 - 👷‍♀️ I'm interested in Web (FE/BE both) and FOOD!
 - 🌱 I’m currently working on a project, Baseball User Platform 'PlayBall'!
 - 📫 How to reach me 💁‍♀️ suzythetravelerr@gmail.com
-- 👀 I speak Arabic, English, Japanese, Korean.
+- 👀 I speak Korean, English, Japanese, Arabic.
 
 <br/>
 
