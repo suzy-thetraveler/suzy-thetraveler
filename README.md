@@ -9,10 +9,10 @@
 <br/>
 
 ### PROJECTS ⚔️
-- ### <a href="https://github.com/nscoo/Zigme">Zigme</a>
+- ### <a href="http://www.zigme-p1.com:8181/">Zigme</a>
 퇴근하는 직장인들에게 편의서비스를 제공하는 웹 <br/>
 (Java11, Spring, MySQL, Ajax, CentOS)<br/>
-http://itproject.ezenac.co.kr/zigme3/ <br/>
+http://www.zigme-p1.com:8181/ <br/>
 2021.06 ~ 2021.08
 
 - ### <a href="https://busan.usersite.co.kr/">동백전</a>
